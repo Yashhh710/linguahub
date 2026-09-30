@@ -124,3 +124,16 @@ const PAGES = {
 export function skeletonFor(name) {
   return (PAGES[name] || PAGES.generic)();
 }
+
+/**
+ * Show the skeleton only if the page is STILL loading after `delay` ms.
+ * - Data arrives fast  -> the skeleton never appears (no flash).
+ * - Data is slow       -> the skeleton appears, then the view replaces it with real content.
+ * The timer only writes into a view that is still empty, so it can never overwrite a page
+ * (or an error message) that has already rendered.
+ */
+export function showSkeleton(view, name, delay = 150) {
+  setTimeout(() => {
+    if (view.isConnected && view.innerHTML.trim() === '') view.innerHTML = skeletonFor(name);
+  }, delay);
+}
