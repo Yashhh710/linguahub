@@ -1,0 +1,33 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>LinguaHub</title>
+<meta name="description" content="LinguaHub: lessons, quizzes, streaks and speaking practice, with real progress tracking.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/tokens.css">
+<link rel="stylesheet" href="/css/layout.css">
+<link rel="stylesheet" href="/css/components.css">
+<link rel="stylesheet" href="/css/auth.css">
+<link rel="stylesheet" href="/css/pages.css">
+<link rel="icon" type="image/png" href="/assets/logo.png">
+</head>
+<body>
+<div id="startupSequence" class="startup-sequence" aria-hidden="true">
+  <img id="startupFrame" src="/assets/loading-frames/0001.jpg" alt="">
+</div>
+<div id="app"></div>
+<div class="toast-stack" id="toastStack"></div>
+<button id="scrollToTopBtn" class="scroll-to-top" type="button" aria-label="Scroll to top" title="Scroll to top">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 15l-6-6-6 6"/>
+  </svg>
+</button>
+<script src="/socket.io/socket.io.js"></script>
+<script type="module" src="/js/main.js"></script>
+</body>
+</html>
+
+

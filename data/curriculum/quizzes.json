@@ -1,0 +1,6502 @@
+[
+  {
+    "title": "Greetings Check-in",
+    "language": "Spanish",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which word means 'Hello'?",
+        "options": [
+          "Hola",
+          "Gracias",
+          "Adiós",
+          "Por favor"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Hola means 'hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Buenas noches",
+          "Buenos días",
+          "Buenas tardes",
+          "Adiós"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Buenos días means 'good morning'."
+      },
+      {
+        "question": "What does 'Gracias' mean?",
+        "options": [
+          "Please",
+          "Thank you",
+          "Sorry",
+          "Goodbye"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Gracias means 'thank you'."
+      },
+      {
+        "question": "What does 'Me llamo Luis' mean?",
+        "options": [
+          "I see Luis",
+          "My name is Luis",
+          "Luis calls me",
+          "I am from Luis"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Me llamo is used to state your name."
+      },
+      {
+        "question": "What does 'Mucho gusto' express?",
+        "options": [
+          "Good night",
+          "Nice to meet you",
+          "See you later",
+          "Excuse me"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Mucho gusto is commonly used when meeting someone."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Spanish",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What number is 'uno'?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Uno means 1."
+      },
+      {
+        "question": "What number is 'cinco'?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Cinco means 5."
+      },
+      {
+        "question": "What does 'diez' mean?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Diez means 10."
+      },
+      {
+        "question": "What does 'veinte' mean?",
+        "options": [
+          "12",
+          "20",
+          "30",
+          "200"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Veinte means 20."
+      },
+      {
+        "question": "What does 'cien' mean?",
+        "options": [
+          "10",
+          "50",
+          "100",
+          "1,000"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Cien means 100."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Spanish",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "How do you ask for the bill?",
+        "options": [
+          "La cuenta, por favor",
+          "Dame dinero",
+          "¿Qué hora es?",
+          "Adiós"
+        ],
+        "correctAnswer": 0,
+        "explanation": "La cuenta, por favor means 'the bill, please'."
+      },
+      {
+        "question": "What does 'para llevar' mean?",
+        "options": [
+          "For here",
+          "To go",
+          "Free",
+          "Very hot"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Para llevar means takeaway or to go."
+      },
+      {
+        "question": "What does 'sin hielo' mean?",
+        "options": [
+          "With ice",
+          "Without ice",
+          "Extra ice",
+          "Cold water"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sin means 'without'."
+      },
+      {
+        "question": "What does 'Quisiera un café' mean?",
+        "options": [
+          "I hate coffee",
+          "I would like a coffee",
+          "I made coffee",
+          "Where is coffee?"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Quisiera is a polite way to say 'I would like'."
+      },
+      {
+        "question": "What does '¿Qué me recomienda?' ask for?",
+        "options": [
+          "A recommendation",
+          "The time",
+          "Directions",
+          "The bill"
+        ],
+        "correctAnswer": 0,
+        "explanation": "It means 'What do you recommend?'"
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Spanish",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "What does '¿Dónde está la estación?' mean?",
+        "options": [
+          "Where is the station?",
+          "Where is the hotel?",
+          "What time is it?",
+          "How much is it?"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Dónde está asks where something is."
+      },
+      {
+        "question": "What does 'izquierda' mean?",
+        "options": [
+          "Right",
+          "Left",
+          "Straight",
+          "Behind"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Izquierda means left."
+      },
+      {
+        "question": "What does 'derecha' mean?",
+        "options": [
+          "Left",
+          "Right",
+          "Near",
+          "Far"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Derecha means right."
+      },
+      {
+        "question": "What does 'aquí' mean?",
+        "options": [
+          "There",
+          "Here",
+          "Yesterday",
+          "Tomorrow"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Aquí means here."
+      },
+      {
+        "question": "What does 'billete' commonly mean in travel contexts?",
+        "options": [
+          "Ticket",
+          "Passport",
+          "Map",
+          "Suitcase"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Billete can mean ticket, depending on context."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Spanish",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "What does 'Tengo hambre' mean?",
+        "options": [
+          "I am tired",
+          "I am hungry",
+          "I am cold",
+          "I am late"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Tengo hambre literally means 'I have hunger'."
+      },
+      {
+        "question": "What does 'Tengo sueño' mean?",
+        "options": [
+          "I am sleepy",
+          "I am angry",
+          "I am ready",
+          "I am lost"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Tengo sueño means 'I am sleepy'."
+      },
+      {
+        "question": "What does '¿Qué haces?' mean?",
+        "options": [
+          "Where are you?",
+          "What are you doing?",
+          "Who are you?",
+          "What do you want?"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Qué haces asks what someone is doing."
+      },
+      {
+        "question": "What does 'Nos vemos' mean?",
+        "options": [
+          "See you",
+          "Good morning",
+          "Thank you",
+          "Excuse me"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Nos vemos is a common informal farewell meaning 'see you'."
+      },
+      {
+        "question": "What does 'hasta mañana' mean?",
+        "options": [
+          "See you tomorrow",
+          "See you next year",
+          "Good evening",
+          "Welcome"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Hasta mañana means 'until tomorrow'."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "French",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which word means 'Hello'?",
+        "options": [
+          "Bonjour",
+          "Merci",
+          "Bonsoir",
+          "Salut"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bonjour means hello or good day."
+      },
+      {
+        "question": "What does 'Bonsoir' mean?",
+        "options": [
+          "Good morning",
+          "Good evening",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bonsoir is used in the evening."
+      },
+      {
+        "question": "What does 'Merci' mean?",
+        "options": [
+          "Sorry",
+          "Thank you",
+          "Please",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Merci means thank you."
+      },
+      {
+        "question": "What does 'Je m'appelle Marie' mean?",
+        "options": [
+          "I know Marie",
+          "My name is Marie",
+          "Marie calls me",
+          "I am with Marie"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Je m'appelle is used to give your name."
+      },
+      {
+        "question": "What does 'Au revoir' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Welcome"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Au revoir means goodbye."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "French",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Shopping",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'un' mean?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Un means 1."
+      },
+      {
+        "question": "What does 'cinq' mean?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Cinq means 5."
+      },
+      {
+        "question": "What does 'dix' mean?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Dix means 10."
+      },
+      {
+        "question": "What does 'vingt' mean?",
+        "options": [
+          "12",
+          "20",
+          "30",
+          "200"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Vingt means 20."
+      },
+      {
+        "question": "What does 'cent' mean?",
+        "options": [
+          "10",
+          "50",
+          "100",
+          "1,000"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Cent means 100."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "French",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "How do you say 'The bill, please'?",
+        "options": [
+          "L'addition, s'il vous plaît",
+          "Donnez-moi",
+          "Bonjour monsieur",
+          "À demain"
+        ],
+        "correctAnswer": 0,
+        "explanation": "L'addition, s'il vous plaît means the bill, please."
+      },
+      {
+        "question": "What does 'à emporter' mean?",
+        "options": [
+          "For here",
+          "To take away",
+          "Free",
+          "Very hot"
+        ],
+        "correctAnswer": 1,
+        "explanation": "À emporter means takeaway."
+      },
+      {
+        "question": "What does 'sans sucre' mean?",
+        "options": [
+          "With sugar",
+          "Without sugar",
+          "Extra sugar",
+          "Sweet"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sans means without."
+      },
+      {
+        "question": "What does 'Je voudrais un café' mean?",
+        "options": [
+          "I dislike coffee",
+          "I would like a coffee",
+          "I made coffee",
+          "Where is coffee?"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Je voudrais is a polite request meaning I would like."
+      },
+      {
+        "question": "What does 'Qu'est-ce que vous conseillez ?' ask for?",
+        "options": [
+          "A recommendation",
+          "The time",
+          "Directions",
+          "The price"
+        ],
+        "correctAnswer": 0,
+        "explanation": "It asks what you recommend."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "French",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "What does 'Où est la gare ?' mean?",
+        "options": [
+          "Where is the station?",
+          "Where is the hotel?",
+          "What time is it?",
+          "How much is it?"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Où est asks where something is."
+      },
+      {
+        "question": "What does 'à gauche' mean?",
+        "options": [
+          "Right",
+          "Left",
+          "Straight",
+          "Behind"
+        ],
+        "correctAnswer": 1,
+        "explanation": "À gauche means left."
+      },
+      {
+        "question": "What does 'à droite' mean?",
+        "options": [
+          "Left",
+          "Right",
+          "Near",
+          "Far"
+        ],
+        "correctAnswer": 1,
+        "explanation": "À droite means right."
+      },
+      {
+        "question": "What does 'ici' mean?",
+        "options": [
+          "There",
+          "Here",
+          "Yesterday",
+          "Tomorrow"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ici means here."
+      },
+      {
+        "question": "What does 'billet' mean?",
+        "options": [
+          "Ticket",
+          "Passport",
+          "Map",
+          "Suitcase"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Billet commonly means ticket."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "French",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "What does 'J'ai faim' mean?",
+        "options": [
+          "I am tired",
+          "I am hungry",
+          "I am cold",
+          "I am late"
+        ],
+        "correctAnswer": 1,
+        "explanation": "J'ai faim literally means I have hunger."
+      },
+      {
+        "question": "What does 'J'ai sommeil' mean?",
+        "options": [
+          "I am sleepy",
+          "I am angry",
+          "I am ready",
+          "I am lost"
+        ],
+        "correctAnswer": 0,
+        "explanation": "J'ai sommeil means I am sleepy."
+      },
+      {
+        "question": "What does 'Qu'est-ce que tu fais ?' mean?",
+        "options": [
+          "Where are you?",
+          "What are you doing?",
+          "Who are you?",
+          "What do you want?"
+        ],
+        "correctAnswer": 1,
+        "explanation": "It asks what someone is doing."
+      },
+      {
+        "question": "What does 'À bientôt' mean?",
+        "options": [
+          "See you soon",
+          "Good morning",
+          "Thank you",
+          "Excuse me"
+        ],
+        "correctAnswer": 0,
+        "explanation": "À bientôt means see you soon."
+      },
+      {
+        "question": "What does 'À demain' mean?",
+        "options": [
+          "See you tomorrow",
+          "See you next year",
+          "Good evening",
+          "Welcome"
+        ],
+        "correctAnswer": 0,
+        "explanation": "À demain means see you tomorrow."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "German",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'Hallo' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Thanks",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Hallo means hello."
+      },
+      {
+        "question": "What does 'Guten Morgen' mean?",
+        "options": [
+          "Good night",
+          "Good morning",
+          "Good evening",
+          "Goodbye"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Guten Morgen means good morning."
+      },
+      {
+        "question": "What does 'Danke' mean?",
+        "options": [
+          "Please",
+          "Thank you",
+          "Sorry",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Danke means thank you."
+      },
+      {
+        "question": "What does 'Ich heiße Anna' mean?",
+        "options": [
+          "I know Anna",
+          "My name is Anna",
+          "Anna calls me",
+          "I am from Anna"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ich heiße is used to state your name."
+      },
+      {
+        "question": "What does 'Auf Wiedersehen' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Welcome"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Auf Wiedersehen is a formal goodbye."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "German",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'eins' mean?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Eins means 1."
+      },
+      {
+        "question": "What does 'fünf' mean?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Fünf means 5."
+      },
+      {
+        "question": "What does 'zehn' mean?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Zehn means 10."
+      },
+      {
+        "question": "What does 'zwanzig' mean?",
+        "options": [
+          "12",
+          "20",
+          "30",
+          "200"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Zwanzig means 20."
+      },
+      {
+        "question": "What does 'hundert' mean?",
+        "options": [
+          "10",
+          "50",
+          "100",
+          "1,000"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Hundert means 100."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "German",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "How do you say 'The bill, please'?",
+        "options": [
+          "Die Rechnung, bitte",
+          "Gib mir Essen",
+          "Wie spät ist es?",
+          "Tschüss"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Die Rechnung, bitte means the bill, please."
+      },
+      {
+        "question": "What does 'zum Mitnehmen' mean?",
+        "options": [
+          "For here",
+          "To take away",
+          "Free",
+          "Very hot"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Zum Mitnehmen means takeaway."
+      },
+      {
+        "question": "What does 'ohne Eis' mean?",
+        "options": [
+          "With ice",
+          "Without ice",
+          "Extra ice",
+          "Cold"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ohne means without."
+      },
+      {
+        "question": "What does 'Ich möchte einen Kaffee' mean?",
+        "options": [
+          "I hate coffee",
+          "I would like a coffee",
+          "I made coffee",
+          "Where is coffee?"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ich möchte is a polite way to say I would like."
+      },
+      {
+        "question": "What does 'Was empfehlen Sie?' ask for?",
+        "options": [
+          "A recommendation",
+          "The time",
+          "Directions",
+          "The bill"
+        ],
+        "correctAnswer": 0,
+        "explanation": "It asks what you recommend."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "German",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "What does 'Wo ist der Bahnhof?' mean?",
+        "options": [
+          "Where is the station?",
+          "Where is the hotel?",
+          "What time is it?",
+          "How much is it?"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Wo ist asks where something is."
+      },
+      {
+        "question": "What does 'links' mean?",
+        "options": [
+          "Right",
+          "Left",
+          "Straight",
+          "Behind"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Links means left."
+      },
+      {
+        "question": "What does 'rechts' mean?",
+        "options": [
+          "Left",
+          "Right",
+          "Near",
+          "Far"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Rechts means right."
+      },
+      {
+        "question": "What does 'hier' mean?",
+        "options": [
+          "There",
+          "Here",
+          "Yesterday",
+          "Tomorrow"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Hier means here."
+      },
+      {
+        "question": "What does 'Fahrkarte' mean?",
+        "options": [
+          "Ticket",
+          "Passport",
+          "Map",
+          "Suitcase"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Fahrkarte means a travel ticket."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "German",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "What does 'Ich habe Hunger' mean?",
+        "options": [
+          "I am tired",
+          "I am hungry",
+          "I am cold",
+          "I am late"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ich habe Hunger means I am hungry."
+      },
+      {
+        "question": "What does 'Ich bin müde' mean?",
+        "options": [
+          "I am sleepy/tired",
+          "I am angry",
+          "I am ready",
+          "I am lost"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Ich bin müde means I am tired."
+      },
+      {
+        "question": "What does 'Was machst du?' mean?",
+        "options": [
+          "Where are you?",
+          "What are you doing?",
+          "Who are you?",
+          "What do you want?"
+        ],
+        "correctAnswer": 1,
+        "explanation": "It asks what someone is doing."
+      },
+      {
+        "question": "What does 'Bis bald' mean?",
+        "options": [
+          "See you soon",
+          "Good morning",
+          "Thank you",
+          "Excuse me"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bis bald means see you soon."
+      },
+      {
+        "question": "What does 'Bis morgen' mean?",
+        "options": [
+          "See you tomorrow",
+          "See you next year",
+          "Good evening",
+          "Welcome"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bis morgen means see you tomorrow."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Italian",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'Ciao' mean?",
+        "options": [
+          "Hello / Bye",
+          "Thanks",
+          "Please",
+          "Good night"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Ciao can mean hello or goodbye."
+      },
+      {
+        "question": "What does 'Buongiorno' mean?",
+        "options": [
+          "Good night",
+          "Good morning",
+          "Goodbye",
+          "Sorry"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Buongiorno means good morning/good day."
+      },
+      {
+        "question": "What does 'Grazie' mean?",
+        "options": [
+          "Please",
+          "Thank you",
+          "Sorry",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Grazie means thank you."
+      },
+      {
+        "question": "What does 'Mi chiamo Marco' mean?",
+        "options": [
+          "I know Marco",
+          "My name is Marco",
+          "Marco calls me",
+          "I am from Marco"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Mi chiamo is used to state your name."
+      },
+      {
+        "question": "What does 'Arrivederci' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Welcome"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Arrivederci means goodbye."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Italian",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'uno' mean?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Uno means 1."
+      },
+      {
+        "question": "What does 'cinque' mean?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Cinque means 5."
+      },
+      {
+        "question": "What does 'dieci' mean?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Dieci means 10."
+      },
+      {
+        "question": "What does 'venti' mean?",
+        "options": [
+          "12",
+          "20",
+          "30",
+          "200"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Venti means 20."
+      },
+      {
+        "question": "What does 'cento' mean?",
+        "options": [
+          "10",
+          "50",
+          "100",
+          "1,000"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Cento means 100."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Italian",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "How do you ask for the bill?",
+        "options": [
+          "Il conto, per favore",
+          "Dammi cibo",
+          "Che ore sono?",
+          "Ciao"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Il conto, per favore means the bill, please."
+      },
+      {
+        "question": "What does 'da asporto' mean?",
+        "options": [
+          "For here",
+          "Takeaway",
+          "Free",
+          "Hot"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Da asporto refers to takeaway."
+      },
+      {
+        "question": "What does 'senza ghiaccio' mean?",
+        "options": [
+          "With ice",
+          "Without ice",
+          "Extra ice",
+          "Cold"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Senza means without."
+      },
+      {
+        "question": "What does 'Vorrei un caffè' mean?",
+        "options": [
+          "I hate coffee",
+          "I would like a coffee",
+          "I made coffee",
+          "Where is coffee?"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Vorrei is a polite way to say I would like."
+      },
+      {
+        "question": "What does 'Cosa mi consiglia?' ask for?",
+        "options": [
+          "A recommendation",
+          "The time",
+          "Directions",
+          "The bill"
+        ],
+        "correctAnswer": 0,
+        "explanation": "It asks what you recommend."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Italian",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "What does 'Dov'è la stazione?' mean?",
+        "options": [
+          "Where is the station?",
+          "Where is the hotel?",
+          "What time is it?",
+          "How much is it?"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Dov'è asks where something is."
+      },
+      {
+        "question": "What does 'sinistra' mean?",
+        "options": [
+          "Right",
+          "Left",
+          "Straight",
+          "Behind"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Sinistra means left."
+      },
+      {
+        "question": "What does 'destra' mean?",
+        "options": [
+          "Left",
+          "Right",
+          "Near",
+          "Far"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Destra means right."
+      },
+      {
+        "question": "What does 'qui' mean?",
+        "options": [
+          "There",
+          "Here",
+          "Yesterday",
+          "Tomorrow"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Qui means here."
+      },
+      {
+        "question": "What does 'biglietto' mean?",
+        "options": [
+          "Ticket",
+          "Passport",
+          "Map",
+          "Suitcase"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Biglietto commonly means ticket."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Italian",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "What does 'Ho fame' mean?",
+        "options": [
+          "I am tired",
+          "I am hungry",
+          "I am cold",
+          "I am late"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Ho fame means I am hungry."
+      },
+      {
+        "question": "What does 'Ho sonno' mean?",
+        "options": [
+          "I am sleepy",
+          "I am angry",
+          "I am ready",
+          "I am lost"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Ho sonno means I am sleepy."
+      },
+      {
+        "question": "What does 'Cosa fai?' mean?",
+        "options": [
+          "Where are you?",
+          "What are you doing?",
+          "Who are you?",
+          "What do you want?"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Cosa fai asks what someone is doing."
+      },
+      {
+        "question": "What does 'A presto' mean?",
+        "options": [
+          "See you soon",
+          "Good morning",
+          "Thank you",
+          "Excuse me"
+        ],
+        "correctAnswer": 0,
+        "explanation": "A presto means see you soon."
+      },
+      {
+        "question": "What does 'A domani' mean?",
+        "options": [
+          "See you tomorrow",
+          "See you next year",
+          "Good evening",
+          "Welcome"
+        ],
+        "correctAnswer": 0,
+        "explanation": "A domani means see you tomorrow."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Portuguese",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'Olá' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Olá' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "Bom dia",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Bom dia' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'Obrigado' mean?",
+        "options": [
+          "Please",
+          "Thank you",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Obrigado' is used to express thanks."
+      },
+      {
+        "question": "What does 'Adeus' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Adeus' is a farewell."
+      },
+      {
+        "question": "What does 'Por favor' commonly mean?",
+        "options": [
+          "Please",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Por favor' is commonly used for 'Please'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Portuguese",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Portuguese",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "Por favor",
+          "Olá",
+          "Adeus",
+          "Obrigado"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Por favor' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "Obrigado",
+          "Olá",
+          "Adeus",
+          "Por favor"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Obrigado' means 'Thank you'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "Por favor",
+          "Olá",
+          "Adeus",
+          "Bom dia"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Por favor' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "Por favor",
+          "Adeus",
+          "Obrigado",
+          "Olá"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Por favor' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "Olá",
+          "Obrigado",
+          "Adeus",
+          "Bom dia"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Obrigado' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Portuguese",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "Olá",
+          "Adeus",
+          "Obrigado",
+          "Por favor"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Olá' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "Olá",
+          "Adeus",
+          "Obrigado",
+          "Por favor"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Adeus' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "Por favor",
+          "Adeus",
+          "Bom dia",
+          "Olá"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Por favor' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "Olá",
+          "Obrigado",
+          "Adeus",
+          "Por favor"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Obrigado' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "Adeus",
+          "Bom dia",
+          "Obrigado",
+          "Por favor"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Bom dia' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Portuguese",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "Olá",
+          "Adeus",
+          "Obrigado",
+          "Por favor"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Olá' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "Olá",
+          "Adeus",
+          "Obrigado",
+          "Por favor"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Adeus' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "Obrigado",
+          "Olá",
+          "Adeus",
+          "Por favor"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Obrigado' means 'Thank you'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "Por favor",
+          "Olá",
+          "Adeus",
+          "Obrigado"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Por favor' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "Bom dia",
+          "Adeus",
+          "Obrigado",
+          "Por favor"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Bom dia' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Japanese",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'こんにちは' mean?",
+        "options": [
+          "Hello / good afternoon",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'こんにちは' is a common greeting meaning 'Hello / good afternoon'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "おはようございます",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'おはようございます' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'ありがとう' mean?",
+        "options": [
+          "Please",
+          "Thank you",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'ありがとう' is used to express thanks."
+      },
+      {
+        "question": "What does 'さようなら' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'さようなら' is a farewell."
+      },
+      {
+        "question": "What does 'お願いします' commonly mean?",
+        "options": [
+          "Please / request",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'お願いします' is commonly used for 'Please / request'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Japanese",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Japanese",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "お願いします",
+          "こんにちは",
+          "さようなら",
+          "ありがとう"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'お願いします' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "ありがとう",
+          "こんにちは",
+          "さようなら",
+          "お願いします"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'ありがとう' means 'Thank you'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "お願いします",
+          "こんにちは",
+          "さようなら",
+          "おはようございます"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'お願いします' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "お願いします",
+          "さようなら",
+          "ありがとう",
+          "こんにちは"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'お願いします' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "こんにちは",
+          "ありがとう",
+          "さようなら",
+          "おはようございます"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'ありがとう' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Japanese",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "こんにちは",
+          "さようなら",
+          "ありがとう",
+          "お願いします"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'こんにちは' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "こんにちは",
+          "さようなら",
+          "ありがとう",
+          "お願いします"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'さようなら' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "お願いします",
+          "さようなら",
+          "おはようございます",
+          "こんにちは"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'お願いします' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "こんにちは",
+          "ありがとう",
+          "さようなら",
+          "お願いします"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'ありがとう' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "さようなら",
+          "おはようございます",
+          "ありがとう",
+          "お願いします"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'おはようございます' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Japanese",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "こんにちは",
+          "さようなら",
+          "ありがとう",
+          "お願いします"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'こんにちは' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "こんにちは",
+          "さようなら",
+          "ありがとう",
+          "お願いします"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'さようなら' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "ありがとう",
+          "こんにちは",
+          "さようなら",
+          "お願いします"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'ありがとう' means 'Thank you'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "お願いします",
+          "こんにちは",
+          "さようなら",
+          "ありがとう"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'お願いします' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "おはようございます",
+          "さようなら",
+          "ありがとう",
+          "お願いします"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'おはようございます' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Korean",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does '안녕하세요' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'안녕하세요' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "감사합니다",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'감사합니다' is used as a morning greeting."
+      },
+      {
+        "question": "What does '안녕히 가세요' mean?",
+        "options": [
+          "Please",
+          "Goodbye",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'안녕히 가세요' is used to express thanks."
+      },
+      {
+        "question": "What does '네' mean?",
+        "options": [
+          "Hello",
+          "Yes",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'네' is a farewell."
+      },
+      {
+        "question": "What does '아니요' commonly mean?",
+        "options": [
+          "No",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'아니요' is commonly used for 'No'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Korean",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Korean",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "아니요",
+          "안녕하세요",
+          "네",
+          "안녕히 가세요"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'아니요' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "안녕히 가세요",
+          "안녕하세요",
+          "네",
+          "아니요"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'안녕히 가세요' means 'Goodbye'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "아니요",
+          "안녕하세요",
+          "네",
+          "감사합니다"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'아니요' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "아니요",
+          "네",
+          "안녕히 가세요",
+          "안녕하세요"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'아니요' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "안녕하세요",
+          "안녕히 가세요",
+          "네",
+          "감사합니다"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'안녕히 가세요' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Korean",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "안녕하세요",
+          "네",
+          "안녕히 가세요",
+          "아니요"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'안녕하세요' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "안녕하세요",
+          "네",
+          "안녕히 가세요",
+          "아니요"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'네' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "아니요",
+          "네",
+          "감사합니다",
+          "안녕하세요"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'아니요' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "안녕하세요",
+          "안녕히 가세요",
+          "네",
+          "아니요"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'안녕히 가세요' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "네",
+          "감사합니다",
+          "안녕히 가세요",
+          "아니요"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'감사합니다' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Korean",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "안녕하세요",
+          "네",
+          "안녕히 가세요",
+          "아니요"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'안녕하세요' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "안녕하세요",
+          "네",
+          "안녕히 가세요",
+          "아니요"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'네' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "안녕히 가세요",
+          "안녕하세요",
+          "네",
+          "아니요"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'안녕히 가세요' means 'Goodbye'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "아니요",
+          "안녕하세요",
+          "네",
+          "안녕히 가세요"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'아니요' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "감사합니다",
+          "네",
+          "안녕히 가세요",
+          "아니요"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'감사합니다' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Chinese",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does '你好' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'你好' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "谢谢",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'谢谢' is used as a morning greeting."
+      },
+      {
+        "question": "What does '再见' mean?",
+        "options": [
+          "Please",
+          "Goodbye",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'再见' is used to express thanks."
+      },
+      {
+        "question": "What does '请' mean?",
+        "options": [
+          "Hello",
+          "Please",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'请' is a farewell."
+      },
+      {
+        "question": "What does '对不起' commonly mean?",
+        "options": [
+          "Sorry",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'对不起' is commonly used for 'Sorry'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Chinese",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Chinese",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "对不起",
+          "你好",
+          "请",
+          "再见"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'对不起' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "再见",
+          "你好",
+          "请",
+          "对不起"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'再见' means 'Goodbye'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "对不起",
+          "你好",
+          "请",
+          "谢谢"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'对不起' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "对不起",
+          "请",
+          "再见",
+          "你好"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'对不起' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "你好",
+          "再见",
+          "请",
+          "谢谢"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'再见' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Chinese",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "你好",
+          "请",
+          "再见",
+          "对不起"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'你好' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "你好",
+          "请",
+          "再见",
+          "对不起"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'请' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "对不起",
+          "请",
+          "谢谢",
+          "你好"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'对不起' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "你好",
+          "再见",
+          "请",
+          "对不起"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'再见' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "请",
+          "谢谢",
+          "再见",
+          "对不起"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'谢谢' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Chinese",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "你好",
+          "请",
+          "再见",
+          "对不起"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'你好' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "你好",
+          "请",
+          "再见",
+          "对不起"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'请' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "再见",
+          "你好",
+          "请",
+          "对不起"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'再见' means 'Goodbye'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "对不起",
+          "你好",
+          "请",
+          "再见"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'对不起' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "谢谢",
+          "请",
+          "再见",
+          "对不起"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'谢谢' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Hindi",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'नमस्ते' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'नमस्ते' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "धन्यवाद",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'धन्यवाद' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'कृपया' mean?",
+        "options": [
+          "Please",
+          "Please",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'कृपया' is used to express thanks."
+      },
+      {
+        "question": "What does 'अलविदा' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'अलविदा' is a farewell."
+      },
+      {
+        "question": "What does 'हाँ' commonly mean?",
+        "options": [
+          "Yes",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'हाँ' is commonly used for 'Yes'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Hindi",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Hindi",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "हाँ",
+          "नमस्ते",
+          "अलविदा",
+          "कृपया"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'हाँ' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "कृपया",
+          "नमस्ते",
+          "अलविदा",
+          "हाँ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'कृपया' means 'Please'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "हाँ",
+          "नमस्ते",
+          "अलविदा",
+          "धन्यवाद"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'हाँ' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "हाँ",
+          "अलविदा",
+          "कृपया",
+          "नमस्ते"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'हाँ' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "नमस्ते",
+          "कृपया",
+          "अलविदा",
+          "धन्यवाद"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'कृपया' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Hindi",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "नमस्ते",
+          "अलविदा",
+          "कृपया",
+          "हाँ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'नमस्ते' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "नमस्ते",
+          "अलविदा",
+          "कृपया",
+          "हाँ"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'अलविदा' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "हाँ",
+          "अलविदा",
+          "धन्यवाद",
+          "नमस्ते"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'हाँ' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "नमस्ते",
+          "कृपया",
+          "अलविदा",
+          "हाँ"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'कृपया' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "अलविदा",
+          "धन्यवाद",
+          "कृपया",
+          "हाँ"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'धन्यवाद' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Hindi",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "नमस्ते",
+          "अलविदा",
+          "कृपया",
+          "हाँ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'नमस्ते' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "नमस्ते",
+          "अलविदा",
+          "कृपया",
+          "हाँ"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'अलविदा' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "कृपया",
+          "नमस्ते",
+          "अलविदा",
+          "हाँ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'कृपया' means 'Please'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "हाँ",
+          "नमस्ते",
+          "अलविदा",
+          "कृपया"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'हाँ' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "धन्यवाद",
+          "अलविदा",
+          "कृपया",
+          "हाँ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'धन्यवाद' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Arabic",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'مرحبا' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'مرحبا' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "شكرا",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'شكرا' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'من فضلك' mean?",
+        "options": [
+          "Please",
+          "Please",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'من فضلك' is used to express thanks."
+      },
+      {
+        "question": "What does 'مع السلامة' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'مع السلامة' is a farewell."
+      },
+      {
+        "question": "What does 'نعم' commonly mean?",
+        "options": [
+          "Yes",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'نعم' is commonly used for 'Yes'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Arabic",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Arabic",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "نعم",
+          "مرحبا",
+          "مع السلامة",
+          "من فضلك"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'نعم' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "من فضلك",
+          "مرحبا",
+          "مع السلامة",
+          "نعم"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'من فضلك' means 'Please'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "نعم",
+          "مرحبا",
+          "مع السلامة",
+          "شكرا"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'نعم' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "نعم",
+          "مع السلامة",
+          "من فضلك",
+          "مرحبا"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'نعم' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "مرحبا",
+          "من فضلك",
+          "مع السلامة",
+          "شكرا"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'من فضلك' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Arabic",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "مرحبا",
+          "مع السلامة",
+          "من فضلك",
+          "نعم"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'مرحبا' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "مرحبا",
+          "مع السلامة",
+          "من فضلك",
+          "نعم"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'مع السلامة' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "نعم",
+          "مع السلامة",
+          "شكرا",
+          "مرحبا"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'نعم' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "مرحبا",
+          "من فضلك",
+          "مع السلامة",
+          "نعم"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'من فضلك' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "مع السلامة",
+          "شكرا",
+          "من فضلك",
+          "نعم"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'شكرا' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Arabic",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "مرحبا",
+          "مع السلامة",
+          "من فضلك",
+          "نعم"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'مرحبا' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "مرحبا",
+          "مع السلامة",
+          "من فضلك",
+          "نعم"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'مع السلامة' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "من فضلك",
+          "مرحبا",
+          "مع السلامة",
+          "نعم"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'من فضلك' means 'Please'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "نعم",
+          "مرحبا",
+          "مع السلامة",
+          "من فضلك"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'نعم' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "شكرا",
+          "مع السلامة",
+          "من فضلك",
+          "نعم"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'شكرا' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Russian",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'Привет' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Привет' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "Спасибо",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Спасибо' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'Пожалуйста' mean?",
+        "options": [
+          "Please",
+          "Please / You're welcome",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Пожалуйста' is used to express thanks."
+      },
+      {
+        "question": "What does 'До свидания' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'До свидания' is a farewell."
+      },
+      {
+        "question": "What does 'Да' commonly mean?",
+        "options": [
+          "Yes",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Да' is commonly used for 'Yes'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Russian",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Russian",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "Да",
+          "Привет",
+          "До свидания",
+          "Пожалуйста"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Да' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "Пожалуйста",
+          "Привет",
+          "До свидания",
+          "Да"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Пожалуйста' means 'Please / You're welcome'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "Да",
+          "Привет",
+          "До свидания",
+          "Спасибо"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Да' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "Да",
+          "До свидания",
+          "Пожалуйста",
+          "Привет"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Да' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "Привет",
+          "Пожалуйста",
+          "До свидания",
+          "Спасибо"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Пожалуйста' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Russian",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "Привет",
+          "До свидания",
+          "Пожалуйста",
+          "Да"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Привет' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "Привет",
+          "До свидания",
+          "Пожалуйста",
+          "Да"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'До свидания' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "Да",
+          "До свидания",
+          "Спасибо",
+          "Привет"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Да' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "Привет",
+          "Пожалуйста",
+          "До свидания",
+          "Да"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Пожалуйста' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "До свидания",
+          "Спасибо",
+          "Пожалуйста",
+          "Да"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Спасибо' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Russian",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "Привет",
+          "До свидания",
+          "Пожалуйста",
+          "Да"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Привет' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "Привет",
+          "До свидания",
+          "Пожалуйста",
+          "Да"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'До свидания' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "Пожалуйста",
+          "Привет",
+          "До свидания",
+          "Да"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Пожалуйста' means 'Please / You're welcome'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "Да",
+          "Привет",
+          "До свидания",
+          "Пожалуйста"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Да' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "Спасибо",
+          "До свидания",
+          "Пожалуйста",
+          "Да"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Спасибо' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Dutch",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'Hallo' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Hallo' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "Goedemorgen",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Goedemorgen' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'Dank je' mean?",
+        "options": [
+          "Please",
+          "Thank you",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Dank je' is used to express thanks."
+      },
+      {
+        "question": "What does 'Tot ziens' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Tot ziens' is a farewell."
+      },
+      {
+        "question": "What does 'Alsjeblieft' commonly mean?",
+        "options": [
+          "Please",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Alsjeblieft' is commonly used for 'Please'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Dutch",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Dutch",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "Alsjeblieft",
+          "Hallo",
+          "Tot ziens",
+          "Dank je"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Alsjeblieft' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "Dank je",
+          "Hallo",
+          "Tot ziens",
+          "Alsjeblieft"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Dank je' means 'Thank you'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "Alsjeblieft",
+          "Hallo",
+          "Tot ziens",
+          "Goedemorgen"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Alsjeblieft' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "Alsjeblieft",
+          "Tot ziens",
+          "Dank je",
+          "Hallo"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Alsjeblieft' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "Hallo",
+          "Dank je",
+          "Tot ziens",
+          "Goedemorgen"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Dank je' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Dutch",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "Hallo",
+          "Tot ziens",
+          "Dank je",
+          "Alsjeblieft"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Hallo' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "Hallo",
+          "Tot ziens",
+          "Dank je",
+          "Alsjeblieft"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Tot ziens' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "Alsjeblieft",
+          "Tot ziens",
+          "Goedemorgen",
+          "Hallo"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Alsjeblieft' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "Hallo",
+          "Dank je",
+          "Tot ziens",
+          "Alsjeblieft"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Dank je' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "Tot ziens",
+          "Goedemorgen",
+          "Dank je",
+          "Alsjeblieft"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Goedemorgen' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Dutch",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "Hallo",
+          "Tot ziens",
+          "Dank je",
+          "Alsjeblieft"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Hallo' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "Hallo",
+          "Tot ziens",
+          "Dank je",
+          "Alsjeblieft"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Tot ziens' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "Dank je",
+          "Hallo",
+          "Tot ziens",
+          "Alsjeblieft"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Dank je' means 'Thank you'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "Alsjeblieft",
+          "Hallo",
+          "Tot ziens",
+          "Dank je"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Alsjeblieft' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "Goedemorgen",
+          "Tot ziens",
+          "Dank je",
+          "Alsjeblieft"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Goedemorgen' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Turkish",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'Merhaba' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Merhaba' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "Günaydın",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Günaydın' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'Teşekkürler' mean?",
+        "options": [
+          "Please",
+          "Thank you",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Teşekkürler' is used to express thanks."
+      },
+      {
+        "question": "What does 'Hoşça kal' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Hoşça kal' is a farewell."
+      },
+      {
+        "question": "What does 'Lütfen' commonly mean?",
+        "options": [
+          "Please",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Lütfen' is commonly used for 'Please'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Turkish",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Turkish",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "Lütfen",
+          "Merhaba",
+          "Hoşça kal",
+          "Teşekkürler"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Lütfen' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "Teşekkürler",
+          "Merhaba",
+          "Hoşça kal",
+          "Lütfen"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Teşekkürler' means 'Thank you'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "Lütfen",
+          "Merhaba",
+          "Hoşça kal",
+          "Günaydın"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Lütfen' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "Lütfen",
+          "Hoşça kal",
+          "Teşekkürler",
+          "Merhaba"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Lütfen' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "Merhaba",
+          "Teşekkürler",
+          "Hoşça kal",
+          "Günaydın"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Teşekkürler' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Turkish",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "Merhaba",
+          "Hoşça kal",
+          "Teşekkürler",
+          "Lütfen"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Merhaba' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "Merhaba",
+          "Hoşça kal",
+          "Teşekkürler",
+          "Lütfen"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Hoşça kal' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "Lütfen",
+          "Hoşça kal",
+          "Günaydın",
+          "Merhaba"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Lütfen' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "Merhaba",
+          "Teşekkürler",
+          "Hoşça kal",
+          "Lütfen"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Teşekkürler' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "Hoşça kal",
+          "Günaydın",
+          "Teşekkürler",
+          "Lütfen"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Günaydın' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Turkish",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "Merhaba",
+          "Hoşça kal",
+          "Teşekkürler",
+          "Lütfen"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Merhaba' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "Merhaba",
+          "Hoşça kal",
+          "Teşekkürler",
+          "Lütfen"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Hoşça kal' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "Teşekkürler",
+          "Merhaba",
+          "Hoşça kal",
+          "Lütfen"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Teşekkürler' means 'Thank you'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "Lütfen",
+          "Merhaba",
+          "Hoşça kal",
+          "Teşekkürler"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Lütfen' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "Günaydın",
+          "Hoşça kal",
+          "Teşekkürler",
+          "Lütfen"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Günaydın' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Swedish",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'Hej' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Hej' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "God morgon",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'God morgon' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'Tack' mean?",
+        "options": [
+          "Please",
+          "Thank you",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Tack' is used to express thanks."
+      },
+      {
+        "question": "What does 'Hej då' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Hej då' is a farewell."
+      },
+      {
+        "question": "What does 'Snälla' commonly mean?",
+        "options": [
+          "Please",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Snälla' is commonly used for 'Please'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Swedish",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Swedish",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "Snälla",
+          "Hej",
+          "Hej då",
+          "Tack"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Snälla' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "Tack",
+          "Hej",
+          "Hej då",
+          "Snälla"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Tack' means 'Thank you'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "Snälla",
+          "Hej",
+          "Hej då",
+          "God morgon"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Snälla' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "Snälla",
+          "Hej då",
+          "Tack",
+          "Hej"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Snälla' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "Hej",
+          "Tack",
+          "Hej då",
+          "God morgon"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Tack' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Swedish",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "Hej",
+          "Hej då",
+          "Tack",
+          "Snälla"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Hej' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "Hej",
+          "Hej då",
+          "Tack",
+          "Snälla"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Hej då' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "Snälla",
+          "Hej då",
+          "God morgon",
+          "Hej"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Snälla' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "Hej",
+          "Tack",
+          "Hej då",
+          "Snälla"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Tack' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "Hej då",
+          "God morgon",
+          "Tack",
+          "Snälla"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'God morgon' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Swedish",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "Hej",
+          "Hej då",
+          "Tack",
+          "Snälla"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Hej' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "Hej",
+          "Hej då",
+          "Tack",
+          "Snälla"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Hej då' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "Tack",
+          "Hej",
+          "Hej då",
+          "Snälla"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Tack' means 'Thank you'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "Snälla",
+          "Hej",
+          "Hej då",
+          "Tack"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Snälla' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "God morgon",
+          "Hej då",
+          "Tack",
+          "Snälla"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'God morgon' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Polish",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'Cześć' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Cześć' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "Dzień dobry",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Dzień dobry' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'Dziękuję' mean?",
+        "options": [
+          "Please",
+          "Thank you",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Dziękuję' is used to express thanks."
+      },
+      {
+        "question": "What does 'Do widzenia' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Do widzenia' is a farewell."
+      },
+      {
+        "question": "What does 'Proszę' commonly mean?",
+        "options": [
+          "Please / you're welcome",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Proszę' is commonly used for 'Please / you're welcome'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Polish",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Polish",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "Proszę",
+          "Cześć",
+          "Do widzenia",
+          "Dziękuję"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Proszę' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "Dziękuję",
+          "Cześć",
+          "Do widzenia",
+          "Proszę"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Dziękuję' means 'Thank you'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "Proszę",
+          "Cześć",
+          "Do widzenia",
+          "Dzień dobry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Proszę' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "Proszę",
+          "Do widzenia",
+          "Dziękuję",
+          "Cześć"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Proszę' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "Cześć",
+          "Dziękuję",
+          "Do widzenia",
+          "Dzień dobry"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Dziękuję' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Polish",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "Cześć",
+          "Do widzenia",
+          "Dziękuję",
+          "Proszę"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Cześć' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "Cześć",
+          "Do widzenia",
+          "Dziękuję",
+          "Proszę"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Do widzenia' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "Proszę",
+          "Do widzenia",
+          "Dzień dobry",
+          "Cześć"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Proszę' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "Cześć",
+          "Dziękuję",
+          "Do widzenia",
+          "Proszę"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Dziękuję' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "Do widzenia",
+          "Dzień dobry",
+          "Dziękuję",
+          "Proszę"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Dzień dobry' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Polish",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "Cześć",
+          "Do widzenia",
+          "Dziękuję",
+          "Proszę"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Cześć' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "Cześć",
+          "Do widzenia",
+          "Dziękuję",
+          "Proszę"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Do widzenia' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "Dziękuję",
+          "Cześć",
+          "Do widzenia",
+          "Proszę"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Dziękuję' means 'Thank you'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "Proszę",
+          "Cześć",
+          "Do widzenia",
+          "Dziękuję"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Proszę' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "Dzień dobry",
+          "Do widzenia",
+          "Dziękuję",
+          "Proszę"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Dzień dobry' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Greek",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'Γεια σου' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Γεια σου' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "Καλημέρα",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Καλημέρα' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'Ευχαριστώ' mean?",
+        "options": [
+          "Please",
+          "Thank you",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Ευχαριστώ' is used to express thanks."
+      },
+      {
+        "question": "What does 'Αντίο' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Αντίο' is a farewell."
+      },
+      {
+        "question": "What does 'Παρακαλώ' commonly mean?",
+        "options": [
+          "Please / you're welcome",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Παρακαλώ' is commonly used for 'Please / you're welcome'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Greek",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Greek",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "Παρακαλώ",
+          "Γεια σου",
+          "Αντίο",
+          "Ευχαριστώ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Παρακαλώ' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "Ευχαριστώ",
+          "Γεια σου",
+          "Αντίο",
+          "Παρακαλώ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Ευχαριστώ' means 'Thank you'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "Παρακαλώ",
+          "Γεια σου",
+          "Αντίο",
+          "Καλημέρα"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Παρακαλώ' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "Παρακαλώ",
+          "Αντίο",
+          "Ευχαριστώ",
+          "Γεια σου"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Παρακαλώ' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "Γεια σου",
+          "Ευχαριστώ",
+          "Αντίο",
+          "Καλημέρα"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Ευχαριστώ' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Greek",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "Γεια σου",
+          "Αντίο",
+          "Ευχαριστώ",
+          "Παρακαλώ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Γεια σου' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "Γεια σου",
+          "Αντίο",
+          "Ευχαριστώ",
+          "Παρακαλώ"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Αντίο' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "Παρακαλώ",
+          "Αντίο",
+          "Καλημέρα",
+          "Γεια σου"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Παρακαλώ' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "Γεια σου",
+          "Ευχαριστώ",
+          "Αντίο",
+          "Παρακαλώ"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Ευχαριστώ' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "Αντίο",
+          "Καλημέρα",
+          "Ευχαριστώ",
+          "Παρακαλώ"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Καλημέρα' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Greek",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "Γεια σου",
+          "Αντίο",
+          "Ευχαριστώ",
+          "Παρακαλώ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Γεια σου' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "Γεια σου",
+          "Αντίο",
+          "Ευχαριστώ",
+          "Παρακαλώ"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Αντίο' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "Ευχαριστώ",
+          "Γεια σου",
+          "Αντίο",
+          "Παρακαλώ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Ευχαριστώ' means 'Thank you'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "Παρακαλώ",
+          "Γεια σου",
+          "Αντίο",
+          "Ευχαριστώ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Παρακαλώ' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "Καλημέρα",
+          "Αντίο",
+          "Ευχαριστώ",
+          "Παρακαλώ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Καλημέρα' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Hebrew",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'שלום' mean?",
+        "options": [
+          "Hello / peace",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'שלום' is a common greeting meaning 'Hello / peace'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "בוקר טוב",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'בוקר טוב' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'תודה' mean?",
+        "options": [
+          "Please",
+          "Thank you",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'תודה' is used to express thanks."
+      },
+      {
+        "question": "What does 'להתראות' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'להתראות' is a farewell."
+      },
+      {
+        "question": "What does 'בבקשה' commonly mean?",
+        "options": [
+          "Please / you're welcome",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'בבקשה' is commonly used for 'Please / you're welcome'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Hebrew",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Hebrew",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "בבקשה",
+          "שלום",
+          "להתראות",
+          "תודה"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'בבקשה' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "תודה",
+          "שלום",
+          "להתראות",
+          "בבקשה"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'תודה' means 'Thank you'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "בבקשה",
+          "שלום",
+          "להתראות",
+          "בוקר טוב"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'בבקשה' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "בבקשה",
+          "להתראות",
+          "תודה",
+          "שלום"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'בבקשה' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "שלום",
+          "תודה",
+          "להתראות",
+          "בוקר טוב"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'תודה' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Hebrew",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "שלום",
+          "להתראות",
+          "תודה",
+          "בבקשה"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'שלום' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "שלום",
+          "להתראות",
+          "תודה",
+          "בבקשה"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'להתראות' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "בבקשה",
+          "להתראות",
+          "בוקר טוב",
+          "שלום"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'בבקשה' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "שלום",
+          "תודה",
+          "להתראות",
+          "בבקשה"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'תודה' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "להתראות",
+          "בוקר טוב",
+          "תודה",
+          "בבקשה"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'בוקר טוב' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Hebrew",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "שלום",
+          "להתראות",
+          "תודה",
+          "בבקשה"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'שלום' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "שלום",
+          "להתראות",
+          "תודה",
+          "בבקשה"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'להתראות' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "תודה",
+          "שלום",
+          "להתראות",
+          "בבקשה"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'תודה' means 'Thank you'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "בבקשה",
+          "שלום",
+          "להתראות",
+          "תודה"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'בבקשה' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "בוקר טוב",
+          "להתראות",
+          "תודה",
+          "בבקשה"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'בוקר טוב' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Indonesian",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'Halo' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Halo' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "Selamat pagi",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Selamat pagi' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'Terima kasih' mean?",
+        "options": [
+          "Please",
+          "Thank you",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Terima kasih' is used to express thanks."
+      },
+      {
+        "question": "What does 'Sampai jumpa' mean?",
+        "options": [
+          "Hello",
+          "Goodbye",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Sampai jumpa' is a farewell."
+      },
+      {
+        "question": "What does 'Tolong' commonly mean?",
+        "options": [
+          "Please / help",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Tolong' is commonly used for 'Please / help'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Indonesian",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Indonesian",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "Tolong",
+          "Halo",
+          "Sampai jumpa",
+          "Terima kasih"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Tolong' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "Terima kasih",
+          "Halo",
+          "Sampai jumpa",
+          "Tolong"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Terima kasih' means 'Thank you'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "Tolong",
+          "Halo",
+          "Sampai jumpa",
+          "Selamat pagi"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Tolong' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "Tolong",
+          "Sampai jumpa",
+          "Terima kasih",
+          "Halo"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Tolong' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "Halo",
+          "Terima kasih",
+          "Sampai jumpa",
+          "Selamat pagi"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Terima kasih' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Indonesian",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "Halo",
+          "Sampai jumpa",
+          "Terima kasih",
+          "Tolong"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Halo' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "Halo",
+          "Sampai jumpa",
+          "Terima kasih",
+          "Tolong"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Sampai jumpa' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "Tolong",
+          "Sampai jumpa",
+          "Selamat pagi",
+          "Halo"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Tolong' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "Halo",
+          "Terima kasih",
+          "Sampai jumpa",
+          "Tolong"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Terima kasih' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "Sampai jumpa",
+          "Selamat pagi",
+          "Terima kasih",
+          "Tolong"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Selamat pagi' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Indonesian",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "Halo",
+          "Sampai jumpa",
+          "Terima kasih",
+          "Tolong"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Halo' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "Halo",
+          "Sampai jumpa",
+          "Terima kasih",
+          "Tolong"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Sampai jumpa' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "Terima kasih",
+          "Halo",
+          "Sampai jumpa",
+          "Tolong"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Terima kasih' means 'Thank you'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "Tolong",
+          "Halo",
+          "Sampai jumpa",
+          "Terima kasih"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Tolong' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "Selamat pagi",
+          "Sampai jumpa",
+          "Terima kasih",
+          "Tolong"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Selamat pagi' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Thai",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'สวัสดี' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'สวัสดี' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "ขอบคุณ",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'ขอบคุณ' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'ลาก่อน' mean?",
+        "options": [
+          "Please",
+          "Goodbye",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'ลาก่อน' is used to express thanks."
+      },
+      {
+        "question": "What does 'กรุณา' mean?",
+        "options": [
+          "Hello",
+          "Please",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'กรุณา' is a farewell."
+      },
+      {
+        "question": "What does 'ใช่' commonly mean?",
+        "options": [
+          "Yes",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'ใช่' is commonly used for 'Yes'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Thai",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Thai",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "ใช่",
+          "สวัสดี",
+          "กรุณา",
+          "ลาก่อน"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'ใช่' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "ลาก่อน",
+          "สวัสดี",
+          "กรุณา",
+          "ใช่"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'ลาก่อน' means 'Goodbye'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "ใช่",
+          "สวัสดี",
+          "กรุณา",
+          "ขอบคุณ"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'ใช่' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "ใช่",
+          "กรุณา",
+          "ลาก่อน",
+          "สวัสดี"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'ใช่' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "สวัสดี",
+          "ลาก่อน",
+          "กรุณา",
+          "ขอบคุณ"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'ลาก่อน' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Thai",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "สวัสดี",
+          "กรุณา",
+          "ลาก่อน",
+          "ใช่"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'สวัสดี' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "สวัสดี",
+          "กรุณา",
+          "ลาก่อน",
+          "ใช่"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'กรุณา' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "ใช่",
+          "กรุณา",
+          "ขอบคุณ",
+          "สวัสดี"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'ใช่' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "สวัสดี",
+          "ลาก่อน",
+          "กรุณา",
+          "ใช่"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'ลาก่อน' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "กรุณา",
+          "ขอบคุณ",
+          "ลาก่อน",
+          "ใช่"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'ขอบคุณ' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Thai",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "สวัสดี",
+          "กรุณา",
+          "ลาก่อน",
+          "ใช่"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'สวัสดี' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "สวัสดี",
+          "กรุณา",
+          "ลาก่อน",
+          "ใช่"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'กรุณา' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "ลาก่อน",
+          "สวัสดี",
+          "กรุณา",
+          "ใช่"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'ลาก่อน' means 'Goodbye'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "ใช่",
+          "สวัสดี",
+          "กรุณา",
+          "ลาก่อน"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'ใช่' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "ขอบคุณ",
+          "กรุณา",
+          "ลาก่อน",
+          "ใช่"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'ขอบคุณ' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Greetings Check-in",
+    "language": "Vietnamese",
+    "level": "A1",
+    "topic": "Greetings",
+    "lessonTitle": "Greetings & Introductions",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "What does 'Xin chào' mean?",
+        "options": [
+          "Hello",
+          "Thank you",
+          "Goodbye",
+          "Please"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Xin chào' is a common greeting meaning 'Hello'."
+      },
+      {
+        "question": "Which phrase means 'Good morning'?",
+        "options": [
+          "Good night",
+          "Cảm ơn",
+          "Goodbye",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Cảm ơn' is used as a morning greeting."
+      },
+      {
+        "question": "What does 'Tạm biệt' mean?",
+        "options": [
+          "Please",
+          "Goodbye",
+          "Goodbye",
+          "Hello"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Tạm biệt' is used to express thanks."
+      },
+      {
+        "question": "What does 'Làm ơn' mean?",
+        "options": [
+          "Hello",
+          "Please",
+          "Please",
+          "Thank you"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Làm ơn' is a farewell."
+      },
+      {
+        "question": "What does 'Vâng' commonly mean?",
+        "options": [
+          "Yes",
+          "Goodbye",
+          "Good morning",
+          "Sorry"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Vâng' is commonly used for 'Yes'."
+      }
+    ]
+  },
+  {
+    "title": "Numbers Practice",
+    "language": "Vietnamese",
+    "level": "A1",
+    "topic": "Numbers",
+    "lessonTitle": "Numbers & Everyday Counting",
+    "xpReward": 40,
+    "questions": [
+      {
+        "question": "Which number is represented by the first basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "5",
+          "10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "The first basic counting number is 1."
+      },
+      {
+        "question": "Which number is represented by the second basic counting word?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "20"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The second basic counting number is 2."
+      },
+      {
+        "question": "Which number is represented by the fifth basic counting word?",
+        "options": [
+          "4",
+          "5",
+          "6",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "The fifth basic counting number is 5."
+      },
+      {
+        "question": "Which number is represented by the tenth basic counting word?",
+        "options": [
+          "8",
+          "9",
+          "10",
+          "20"
+        ],
+        "correctAnswer": 2,
+        "explanation": "The tenth basic counting number is 10."
+      },
+      {
+        "question": "How many items are in a pair?",
+        "options": [
+          "1",
+          "2",
+          "3",
+          "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "A pair contains two items."
+      }
+    ]
+  },
+  {
+    "title": "Food Order Practice",
+    "language": "Vietnamese",
+    "level": "A2",
+    "topic": "Food",
+    "lessonTitle": "Ordering Food & Drink",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which phrase would you use to politely request something?",
+        "options": [
+          "Vâng",
+          "Xin chào",
+          "Làm ơn",
+          "Tạm biệt"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Vâng' is used for polite requests."
+      },
+      {
+        "question": "Which phrase is the local word for saying thank you?",
+        "options": [
+          "Tạm biệt",
+          "Xin chào",
+          "Làm ơn",
+          "Vâng"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Tạm biệt' means 'Goodbye'."
+      },
+      {
+        "question": "If a server says the local equivalent of 'Thank you', what is an appropriate response?",
+        "options": [
+          "Vâng",
+          "Xin chào",
+          "Làm ơn",
+          "Cảm ơn"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Vâng' can function as a polite response in this language."
+      },
+      {
+        "question": "Which expression would be appropriate before making a polite request?",
+        "options": [
+          "Vâng",
+          "Làm ơn",
+          "Tạm biệt",
+          "Xin chào"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Vâng' is the polite-request expression."
+      },
+      {
+        "question": "Which word is associated with gratitude?",
+        "options": [
+          "Xin chào",
+          "Tạm biệt",
+          "Làm ơn",
+          "Cảm ơn"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Tạm biệt' expresses gratitude."
+      }
+    ]
+  },
+  {
+    "title": "Travel Practice",
+    "language": "Vietnamese",
+    "level": "A2",
+    "topic": "Travel",
+    "lessonTitle": "Travel & Directions",
+    "xpReward": 45,
+    "questions": [
+      {
+        "question": "Which expression is used when greeting someone at the start of a trip?",
+        "options": [
+          "Xin chào",
+          "Làm ơn",
+          "Tạm biệt",
+          "Vâng"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Xin chào' is a greeting."
+      },
+      {
+        "question": "Which expression is used when leaving?",
+        "options": [
+          "Xin chào",
+          "Làm ơn",
+          "Tạm biệt",
+          "Vâng"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Làm ơn' is used as a farewell."
+      },
+      {
+        "question": "Which expression is polite when asking for assistance?",
+        "options": [
+          "Vâng",
+          "Làm ơn",
+          "Cảm ơn",
+          "Xin chào"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Vâng' makes a request polite."
+      },
+      {
+        "question": "Which expression shows appreciation after receiving help?",
+        "options": [
+          "Xin chào",
+          "Tạm biệt",
+          "Làm ơn",
+          "Vâng"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Tạm biệt' expresses appreciation."
+      },
+      {
+        "question": "Which phrase is specifically associated with morning?",
+        "options": [
+          "Làm ơn",
+          "Cảm ơn",
+          "Tạm biệt",
+          "Vâng"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Cảm ơn' is the morning greeting."
+      }
+    ]
+  },
+  {
+    "title": "Daily Conversation",
+    "language": "Vietnamese",
+    "level": "B1",
+    "topic": "Daily Life",
+    "lessonTitle": "Daily Conversation",
+    "xpReward": 50,
+    "questions": [
+      {
+        "question": "Which expression would you use to greet a person?",
+        "options": [
+          "Xin chào",
+          "Làm ơn",
+          "Tạm biệt",
+          "Vâng"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Xin chào' is used to greet someone."
+      },
+      {
+        "question": "Which expression would you use to say goodbye?",
+        "options": [
+          "Xin chào",
+          "Làm ơn",
+          "Tạm biệt",
+          "Vâng"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Làm ơn' is used when leaving."
+      },
+      {
+        "question": "Which expression would you use to thank someone?",
+        "options": [
+          "Tạm biệt",
+          "Xin chào",
+          "Làm ơn",
+          "Vâng"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Tạm biệt' means 'Goodbye'."
+      },
+      {
+        "question": "Which expression would you use to make a polite request?",
+        "options": [
+          "Vâng",
+          "Xin chào",
+          "Làm ơn",
+          "Tạm biệt"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Vâng' is used for polite requests."
+      },
+      {
+        "question": "Which expression is specifically a morning greeting?",
+        "options": [
+          "Cảm ơn",
+          "Làm ơn",
+          "Tạm biệt",
+          "Vâng"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Cảm ơn' is the morning greeting."
+      }
+    ]
+  }
+]

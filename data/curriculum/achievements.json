@@ -1,0 +1,14 @@
+[
+  { "key": "streak_3", "title": "Warming Up", "description": "Practice 3 days in a row.", "icon": "flame", "category": "streak", "goal": 3 },
+  { "key": "streak_7", "title": "One Week Strong", "description": "Practice 7 days in a row.", "icon": "flame", "category": "streak", "goal": 7 },
+  { "key": "streak_30", "title": "Habit Formed", "description": "Practice 30 days in a row.", "icon": "flame", "category": "streak", "goal": 30 },
+  { "key": "xp_100", "title": "First Steps", "description": "Earn 100 XP.", "icon": "star", "category": "xp", "goal": 100 },
+  { "key": "xp_1000", "title": "Dedicated Learner", "description": "Earn 1,000 XP.", "icon": "star", "category": "xp", "goal": 1000 },
+  { "key": "xp_5000", "title": "XP Master", "description": "Earn 5,000 XP.", "icon": "diamond", "category": "xp", "goal": 5000 },
+  { "key": "lessons_5", "title": "Getting Started", "description": "Complete 5 lessons.", "icon": "book", "category": "lessons", "goal": 5 },
+  { "key": "lessons_20", "title": "Bookworm", "description": "Complete 20 lessons.", "icon": "book", "category": "lessons", "goal": 20 },
+  { "key": "quiz_5", "title": "Quiz Regular", "description": "Pass 5 quizzes.", "icon": "check", "category": "quiz", "goal": 5 },
+  { "key": "quiz_25", "title": "Quiz Champion", "description": "Pass 25 quizzes.", "icon": "check", "category": "quiz", "goal": 25 },
+  { "key": "social_1", "title": "Not Studying Alone", "description": "Add your first friend.", "icon": "friends", "category": "social", "goal": 1 },
+  { "key": "social_5", "title": "Study Group", "description": "Have 5 friends on LinguaHub.", "icon": "friends", "category": "social", "goal": 5 }
+]

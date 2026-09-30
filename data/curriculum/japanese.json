@@ -1,0 +1,80 @@
+{
+  "language": "Japanese",
+  "lessons": [
+    {
+      "title": "Greetings & Introductions",
+      "level": "A1", "topic": "Greetings", "order": 1, "estimatedMinutes": 10, "xpReward": 20,
+      "content": {
+        "vocabulary": [
+          { "term": "こんにちは", "translation": "Hello / Good afternoon", "pronunciation": "kon-nichi-wa" },
+          { "term": "おはようございます", "translation": "Good morning (polite)", "pronunciation": "ohayō gozaimasu" },
+          { "term": "こんばんは", "translation": "Good evening", "pronunciation": "konban-wa" },
+          { "term": "はじめまして", "translation": "Nice to meet you (first time)", "pronunciation": "hajimemashite" },
+          { "term": "私は...です", "translation": "I am... (name/identity)", "pronunciation": "watashi wa ... desu", "example": "私はアナです。" },
+          { "term": "よろしくお願いします", "translation": "Please treat me well / nice to meet you", "pronunciation": "yoroshiku onegaishimasu" },
+          { "term": "さようなら", "translation": "Goodbye (formal, longer parting)", "pronunciation": "sayōnara" }
+        ],
+        "grammar": { "title": "The topic particle は (wa)", "explanation": "は marks the topic of the sentence and is pronounced 'wa' (not 'ha') in this role. '私は学生です' (Watashi wa gakusei desu) = 'As for me, I am a student.' The verb/state comes at the end, after です (desu)." },
+        "examples": [
+          { "text": "はじめまして。私はアナです。よろしくお願いします。", "translation": "Nice to meet you. I'm Ana. Please treat me well." }
+        ],
+        "tip": "Say your self-introduction (name + one fact) out loud until it's automatic — it's used constantly in Japan."
+      }
+    },
+    {
+      "title": "Numbers & Counting",
+      "level": "A1", "topic": "Numbers", "order": 2, "estimatedMinutes": 12, "xpReward": 20,
+      "content": {
+        "vocabulary": [
+          { "term": "一 (いち)", "translation": "One", "pronunciation": "ichi" },
+          { "term": "二 (に)", "translation": "Two", "pronunciation": "ni" },
+          { "term": "三 (さん)", "translation": "Three", "pronunciation": "san" },
+          { "term": "十 (じゅう)", "translation": "Ten", "pronunciation": "jū" },
+          { "term": "百 (ひゃく)", "translation": "One hundred", "pronunciation": "hyaku" },
+          { "term": "いくらですか", "translation": "How much is it?", "pronunciation": "ikura desu ka" }
+        ],
+        "grammar": { "title": "Counters change with the object", "explanation": "Japanese uses different counting words depending on what's being counted: 一つ (hitotsu, generic objects), 一人 (hitori, people), 一本 (ippon, long thin objects). There's no single universal 'one' like English." },
+        "examples": [
+          { "text": "りんごを二つください。", "translation": "Two apples, please." }
+        ],
+        "tip": "Learn counters in small groups tied to real objects you actually count often — don't try to learn all of them at once."
+      }
+    },
+    {
+      "title": "Ordering Food",
+      "level": "A2", "topic": "Food", "order": 3, "estimatedMinutes": 12, "xpReward": 25,
+      "content": {
+        "vocabulary": [
+          { "term": "〜をください", "translation": "...please give me", "pronunciation": "...o kudasai", "example": "水をください。" },
+          { "term": "お会計お願いします", "translation": "The check, please", "pronunciation": "okaikei onegaishimasu" },
+          { "term": "美味しい", "translation": "Delicious", "pronunciation": "oishii" },
+          { "term": "持ち帰り", "translation": "Takeout", "pronunciation": "mochikaeri" },
+          { "term": "おすすめは何ですか", "translation": "What do you recommend?", "pronunciation": "osusume wa nan desu ka" }
+        ],
+        "grammar": { "title": "〜をください for requests", "explanation": "Attach を (object marker) + ください to the thing you want: 'コーヒーをください' (Please give me coffee). It's simple, polite, and used constantly when ordering." },
+        "examples": [
+          { "text": "すみません、コーヒーをください。", "translation": "Excuse me, coffee please." }
+        ],
+        "tip": "Practice ordering your actual daily drink using 〜をください before you next order it for real."
+      }
+    },
+    {
+      "title": "Talking About the Past",
+      "level": "B1", "topic": "Grammar", "order": 4, "estimatedMinutes": 15, "xpReward": 30,
+      "content": {
+        "vocabulary": [
+          { "term": "昨日 (きのう)", "translation": "Yesterday", "pronunciation": "kinō" },
+          { "term": "行きました", "translation": "Went (polite past)", "pronunciation": "ikimashita" },
+          { "term": "食べました", "translation": "Ate (polite past)", "pronunciation": "tabemashita" },
+          { "term": "楽しかったです", "translation": "It was fun (polite past)", "pronunciation": "tanoshikatta desu" },
+          { "term": "それから", "translation": "After that", "pronunciation": "sorekara" }
+        ],
+        "grammar": { "title": "Polite past tense: ました / でした", "explanation": "Polite verbs ending in ます become past by swapping to ました: 行きます → 行きました. Polite い-adjectives drop い and add かった + です: 楽しい → 楽しかったです." },
+        "examples": [
+          { "text": "昨日、公園に行きました。楽しかったです。", "translation": "Yesterday I went to the park. It was fun." }
+        ],
+        "tip": "Narrate your actual day in three simple past-tense sentences each evening."
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "language": "Spanish",
+  "lessons": [
+    {
+      "title": "Greetings & Introductions",
+      "level": "A1",
+      "topic": "Greetings",
+      "order": 1,
+      "estimatedMinutes": 8,
+      "xpReward": 20,
+      "content": {
+        "vocabulary": [
+          { "term": "Hola", "translation": "Hello", "pronunciation": "OH-lah", "example": "¡Hola! ¿Cómo estás?" },
+          { "term": "Buenos días", "translation": "Good morning", "pronunciation": "BWEH-nos DEE-as", "example": "Buenos días, profesora." },
+          { "term": "Buenas tardes", "translation": "Good afternoon", "pronunciation": "BWEH-nas TAR-des", "example": "Buenas tardes a todos." },
+          { "term": "Buenas noches", "translation": "Good evening / night", "pronunciation": "BWEH-nas NOH-ches", "example": "Buenas noches, hasta mañana." },
+          { "term": "Me llamo...", "translation": "My name is...", "pronunciation": "meh YAH-mo", "example": "Me llamo Ana." },
+          { "term": "Mucho gusto", "translation": "Nice to meet you", "pronunciation": "MOO-cho GOOS-to", "example": "Mucho gusto, soy Carlos." },
+          { "term": "¿Cómo estás?", "translation": "How are you? (informal)", "pronunciation": "KOH-mo es-TAS", "example": "Hola Marta, ¿cómo estás?" },
+          { "term": "Adiós", "translation": "Goodbye", "pronunciation": "ah-dee-OS", "example": "Adiós, nos vemos mañana." }
+        ],
+        "grammar": { "title": "Subject pronouns with 'ser' (to be)", "explanation": "Spanish often drops the subject pronoun because the verb ending already shows who is speaking: (yo) soy, (tú) eres, (él/ella) es. Use 'soy' for permanent identity — 'Soy Ana' (I am Ana) — not 'estoy', which is for temporary states." },
+        "examples": [
+          { "text": "Hola, me llamo Sofía. ¿Y tú?", "translation": "Hi, my name is Sofía. And you?" },
+          { "text": "Mucho gusto, Sofía. Soy Diego.", "translation": "Nice to meet you, Sofía. I'm Diego." }
+        ],
+        "tip": "Practice greetings out loud at the actual time of day they're used — 'buenos días' in the morning, 'buenas tardes' after noon — so the timing becomes automatic."
+      }
+    },
+    {
+      "title": "Numbers & Everyday Counting",
+      "level": "A1",
+      "topic": "Numbers",
+      "order": 2,
+      "estimatedMinutes": 10,
+      "xpReward": 20,
+      "content": {
+        "vocabulary": [
+          { "term": "Uno", "translation": "One", "pronunciation": "OO-no" },
+          { "term": "Dos", "translation": "Two", "pronunciation": "dos" },
+          { "term": "Tres", "translation": "Three", "pronunciation": "tres" },
+          { "term": "Cuatro", "translation": "Four", "pronunciation": "KWAH-tro" },
+          { "term": "Cinco", "translation": "Five", "pronunciation": "SEEN-ko" },
+          { "term": "Diez", "translation": "Ten", "pronunciation": "dee-ES" },
+          { "term": "Veinte", "translation": "Twenty", "pronunciation": "VAIN-teh" },
+          { "term": "Cien", "translation": "One hundred", "pronunciation": "see-EN" },
+          { "term": "¿Cuánto cuesta?", "translation": "How much does it cost?", "pronunciation": "KWAN-to KWES-ta", "example": "¿Cuánto cuesta el café?" }
+        ],
+        "grammar": { "title": "Numbers agreeing with gender", "explanation": "'Uno' becomes 'un' before a masculine noun (un café) and 'una' before a feminine one (una manzana). Numbers 200-900 also change: doscientos libros, doscientas manzanas." },
+        "examples": [
+          { "text": "Quiero un café, por favor.", "translation": "I'd like a coffee, please." },
+          { "text": "El café cuesta dos euros.", "translation": "The coffee costs two euros." }
+        ],
+        "tip": "Count everyday objects around you in Spanish — stairs, plates, chairs — for thirty seconds a day."
+      }
+    },
+    {
+      "title": "Ordering Food & Drink",
+      "level": "A2",
+      "topic": "Food",
+      "order": 3,
+      "estimatedMinutes": 12,
+      "xpReward": 25,
+      "content": {
+        "vocabulary": [
+          { "term": "La cuenta, por favor", "translation": "The check, please", "pronunciation": "la KWEN-ta por fah-VOR" },
+          { "term": "Quisiera...", "translation": "I would like... (polite)", "pronunciation": "kee-see-EH-ra", "example": "Quisiera una ensalada." },
+          { "term": "¿Qué me recomienda?", "translation": "What do you recommend?", "pronunciation": "keh meh reh-ko-mee-EN-da" },
+          { "term": "Agua", "translation": "Water", "pronunciation": "AH-gwah" },
+          { "term": "Sin hielo", "translation": "Without ice", "pronunciation": "sin YEH-lo" },
+          { "term": "Para llevar", "translation": "To go / takeaway", "pronunciation": "PAH-ra yeh-VAR" },
+          { "term": "Delicioso", "translation": "Delicious", "pronunciation": "deh-lee-see-OH-so" }
+        ],
+        "grammar": { "title": "'Quisiera' for polite requests", "explanation": "'Quisiera' (a softened past-subjunctive form of querer) is the standard polite way to order, gentler than 'quiero'. Follow it directly with the noun: 'Quisiera la sopa.'" },
+        "examples": [
+          { "text": "Quisiera una mesa para dos, por favor.", "translation": "I would like a table for two, please." },
+          { "text": "¿Qué me recomienda de postre?", "translation": "What do you recommend for dessert?" }
+        ],
+        "tip": "Rehearse ordering your actual favorite meal in Spanish before you next visit a Spanish or Latin restaurant."
+      }
+    },
+    {
+      "title": "Talking About the Past",
+      "level": "B1",
+      "topic": "Grammar",
+      "order": 4,
+      "estimatedMinutes": 15,
+      "xpReward": 30,
+      "content": {
+        "vocabulary": [
+          { "term": "Ayer", "translation": "Yesterday", "pronunciation": "ah-YER" },
+          { "term": "La semana pasada", "translation": "Last week", "pronunciation": "la seh-MAH-na pah-SAH-da" },
+          { "term": "Visité", "translation": "I visited", "pronunciation": "vee-see-TEH" },
+          { "term": "Comí", "translation": "I ate", "pronunciation": "ko-MEE" },
+          { "term": "Fui", "translation": "I went / I was", "pronunciation": "fwee" },
+          { "term": "Después", "translation": "Afterward", "pronunciation": "des-PWES" }
+        ],
+        "grammar": { "title": "Regular preterite endings (-ar verbs)", "explanation": "For a completed action in the past, drop -ar and add: -é, -aste, -ó, -amos, -asteis, -aron. 'Visitar' → 'visité' (I visited), 'visitó' (he/she visited). -er/-ir verbs use -í, -iste, -ió, -imos, -isteis, -ieron instead." },
+        "examples": [
+          { "text": "Ayer visité el museo con mi hermana.", "translation": "Yesterday I visited the museum with my sister." },
+          { "text": "Comimos en un restaurante muy bueno.", "translation": "We ate at a very good restaurant." }
+        ],
+        "tip": "Tell one short story about yesterday out loud, using only past-tense verbs, before checking a dictionary."
+      }
+    },
+    {
+      "title": "Making Plans & Invitations",
+      "level": "B1",
+      "topic": "Making Plans",
+      "order": 5,
+      "estimatedMinutes": 12,
+      "xpReward": 30,
+      "content": {
+        "vocabulary": [
+          { "term": "¿Estás libre...?", "translation": "Are you free...?", "pronunciation": "es-TAS LEE-breh" },
+          { "term": "Voy a...", "translation": "I'm going to... (near future)", "pronunciation": "voy ah" },
+          { "term": "¿Quieres venir?", "translation": "Do you want to come?", "pronunciation": "kee-EH-res veh-NEER" },
+          { "term": "Quedar", "translation": "To meet up / make plans", "pronunciation": "keh-DAR", "example": "¿Quedamos el viernes?" },
+          { "term": "Tal vez", "translation": "Maybe", "pronunciation": "tahl vez" }
+        ],
+        "grammar": { "title": "'Ir a' + infinitive for the near future", "explanation": "To talk about a plan already decided, use ir (voy, vas, va, vamos, vais, van) + a + infinitive: 'Voy a estudiar esta noche' (I'm going to study tonight)." },
+        "examples": [
+          { "text": "¿Estás libre el sábado? Voy a ver una película.", "translation": "Are you free Saturday? I'm going to watch a movie." },
+          { "text": "Tal vez, te aviso mañana.", "translation": "Maybe, I'll let you know tomorrow." }
+        ],
+        "tip": "Add a specific day and time to every plan you practice — vague plans are harder to remember."
+      }
+    }
+  ]
+}

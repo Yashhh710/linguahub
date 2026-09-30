@@ -1,0 +1,81 @@
+{
+  "language": "French",
+  "lessons": [
+    {
+      "title": "Greetings & Introductions",
+      "level": "A1", "topic": "Greetings", "order": 1, "estimatedMinutes": 8, "xpReward": 20,
+      "content": {
+        "vocabulary": [
+          { "term": "Bonjour", "translation": "Hello / Good day", "pronunciation": "bon-ZHOOR", "example": "Bonjour, madame." },
+          { "term": "Bonsoir", "translation": "Good evening", "pronunciation": "bon-SWAHR" },
+          { "term": "Je m'appelle...", "translation": "My name is...", "pronunciation": "zhuh mah-PELL", "example": "Je m'appelle Claire." },
+          { "term": "Enchanté(e)", "translation": "Pleased to meet you", "pronunciation": "ahn-shahn-TAY" },
+          { "term": "Comment allez-vous ?", "translation": "How are you? (formal)", "pronunciation": "koh-mahn tah-lay VOO" },
+          { "term": "Au revoir", "translation": "Goodbye", "pronunciation": "oh ruh-VWAHR" },
+          { "term": "S'il vous plaît", "translation": "Please (formal)", "pronunciation": "seel voo PLEH" }
+        ],
+        "grammar": { "title": "Tu vs. vous", "explanation": "French has two forms of 'you': 'tu' (informal, friends/family/children) and 'vous' (formal, strangers, elders, or plural). Verb endings change with each: 'Comment vas-tu ?' vs 'Comment allez-vous ?'." },
+        "examples": [
+          { "text": "Bonjour, je m'appelle Louis. Et vous ?", "translation": "Hello, my name is Louis. And you?" },
+          { "text": "Enchanté ! Comment allez-vous ?", "translation": "Pleased to meet you! How are you?" }
+        ],
+        "tip": "Default to 'vous' with anyone you don't know well — switching to 'tu' too soon can sound overly familiar."
+      }
+    },
+    {
+      "title": "Numbers & Shopping",
+      "level": "A1", "topic": "Numbers", "order": 2, "estimatedMinutes": 10, "xpReward": 20,
+      "content": {
+        "vocabulary": [
+          { "term": "Un, deux, trois", "translation": "One, two, three", "pronunciation": "uhn, duh, trwah" },
+          { "term": "Dix", "translation": "Ten", "pronunciation": "dees" },
+          { "term": "Vingt", "translation": "Twenty", "pronunciation": "van" },
+          { "term": "Cent", "translation": "One hundred", "pronunciation": "sahn" },
+          { "term": "Combien ça coûte ?", "translation": "How much does it cost?", "pronunciation": "kom-bee-AHN sah koot" },
+          { "term": "C'est trop cher", "translation": "That's too expensive", "pronunciation": "seh troh SHAIR" }
+        ],
+        "grammar": { "title": "Soixante-dix and beyond", "explanation": "French counts 70-99 by addition/multiplication: 70 = soixante-dix ('sixty-ten'), 80 = quatre-vingts ('four-twenties'), 90 = quatre-vingt-dix ('four-twenty-ten'). Belgian/Swiss French often use septante/nonante instead." },
+        "examples": [
+          { "text": "Combien ça coûte ? — Ça coûte vingt euros.", "translation": "How much is it? — It's twenty euros." }
+        ],
+        "tip": "Drill 70-99 separately from the rest — they trip up nearly every learner at first."
+      }
+    },
+    {
+      "title": "At the Café",
+      "level": "A2", "topic": "Food", "order": 3, "estimatedMinutes": 12, "xpReward": 25,
+      "content": {
+        "vocabulary": [
+          { "term": "Je voudrais...", "translation": "I would like...", "pronunciation": "zhuh voo-DREH", "example": "Je voudrais un café." },
+          { "term": "L'addition, s'il vous plaît", "translation": "The bill, please", "pronunciation": "lah-dee-see-OHN" },
+          { "term": "Un verre d'eau", "translation": "A glass of water", "pronunciation": "uhn VAIR doh" },
+          { "term": "C'est délicieux", "translation": "It's delicious", "pronunciation": "seh day-lee-see-UH" },
+          { "term": "À emporter", "translation": "To take away", "pronunciation": "ah ahm-por-TAY" }
+        ],
+        "grammar": { "title": "Partitive articles (du, de la, des)", "explanation": "Use du (masc.), de la (fem.), or des (plural) for 'some' with food and drink: 'Je voudrais du pain' (I'd like some bread), 'de la confiture' (some jam)." },
+        "examples": [
+          { "text": "Je voudrais du pain et de la confiture.", "translation": "I would like some bread and some jam." }
+        ],
+        "tip": "Order your actual morning drink in French in your head before you make it, every day this week."
+      }
+    },
+    {
+      "title": "Talking About the Past",
+      "level": "B1", "topic": "Grammar", "order": 4, "estimatedMinutes": 15, "xpReward": 30,
+      "content": {
+        "vocabulary": [
+          { "term": "Hier", "translation": "Yesterday", "pronunciation": "ee-AIR" },
+          { "term": "J'ai visité", "translation": "I visited", "pronunciation": "zhay vee-zee-TAY" },
+          { "term": "J'ai mangé", "translation": "I ate", "pronunciation": "zhay mahn-ZHAY" },
+          { "term": "Je suis allé(e)", "translation": "I went", "pronunciation": "zhuh swee ah-LAY" },
+          { "term": "Ensuite", "translation": "Then / next", "pronunciation": "ahn-SWEET" }
+        ],
+        "grammar": { "title": "Passé composé with avoir vs. être", "explanation": "Most verbs form the past with avoir + past participle: 'j'ai mangé'. A small set of motion/state verbs (aller, venir, naître, mourir, partir, arriver, and their compounds) use être instead, and the participle agrees in gender/number: 'elle est allée'." },
+        "examples": [
+          { "text": "Hier, je suis allé au marché et j'ai acheté des fruits.", "translation": "Yesterday I went to the market and bought some fruit." }
+        ],
+        "tip": "Memorize the être-verbs as the 'house' story: they're often taught arranged like a house floor plan — it makes the list stick."
+      }
+    }
+  ]
+}
