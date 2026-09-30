@@ -78,25 +78,28 @@ function connectSocket() {
   socket.on('notification', n => showToast(n.title));
 }
 
+async function refreshSession() {
+  try {
+    // Fetch both in parallel instead of one after the other.
+    const [fresh, streak] = await Promise.all([get('/auth/me'), get('/streaks')]);
+    setUser(fresh);
+    localStorage.setItem('lh_user', JSON.stringify(fresh));
+    setStreak(streak.currentStreak);
+    connectSocket();
+  } catch {
+    // api.js already redirects to #/login on 401; nothing else to do here.
+  }
+}
+
 async function bootstrap() {
   const startupSequence = playStartupSequence();
   const cached = getCachedUser();
   if (cached) setUser(cached);
 
-  if (getToken()) {
-    try {
-      const fresh = await get('/auth/me');
-      setUser(fresh);
-      localStorage.setItem('lh_user', JSON.stringify(fresh));
-      const streak = await get('/streaks');
-      setStreak(streak.currentStreak);
-      connectSocket();
-    } catch {
-      // api.js already redirects to #/login on 401; nothing else to do here.
-    }
-  }
+  if (getToken()) await refreshSession();
 
-  await route();
+  // Start drawing the page (shell + skeleton) right away; don't wait for its data to hide the intro.
+  const routed = route().catch(error => console.error(error));
   await startupSequence;
 
   const startupScreen = document.getElementById('startupSequence');
@@ -104,6 +107,7 @@ async function bootstrap() {
     startupScreen.classList.add('is-hidden');
     window.setTimeout(() => startupScreen.remove(), 450);
   }
+  await routed;
 }
 
 function setupScrollToTop() {
