@@ -1,5 +1,16 @@
 # LinguaHub
 
+<div align="center">
+
+<img 
+  width="500" 
+  alt="Scan Me QR Code" 
+  src="https://github.com/user-attachments/assets/f39a26ad-4a95-4f93-b79d-58fab68cbc45"
+  style="background: transparent;"
+/>
+
+</div>
+
 LinguaHub is a full-stack interactive language-learning platform built to make language learning structured, practical, and engaging. The platform combines lessons, quizzes, progress tracking, streaks, achievements, friends, leaderboards, speaking practice, notifications, and real-time updates in one application.
 
 The project is implemented as a Node.js and Express backend with MongoDB and Mongoose, Socket.io for real-time communication, Firebase for Google authentication and push notifications, and optional Groq AI integration for lesson and quiz generation. The frontend is a plain HTML, CSS, and JavaScript single-page application served directly by the backend.
