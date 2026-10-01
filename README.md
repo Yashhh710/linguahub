@@ -13,6 +13,7 @@ This project was developed as a backend development project for B.Tech Computer 
 - Live Application: https://linguahub-xi.vercel.app/
 - GitHub Repository: https://github.com/Yashhh710/linguahub
 - API Documentation: [docs/API.md](docs/API.md)
+- Report: https://github.com/Yashhh710/linguahub/blob/main/LinguaHub_Case_Study_Report.pdf
 
 ## Project Objectives
 
@@ -33,6 +34,29 @@ The main objectives are:
 - Provide optional AI-assisted lesson and quiz generation.
 - Provide speaking practice using browser speech recognition and server-side similarity scoring.
 - Provide administrator tools for user and platform management.
+
+---
+
+## Mobile Layout
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f0d75aee-dc58-4d26-8f96-47f4d5a28720" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/f4180ce1-e45d-41cf-a03d-6331ad1c6a77" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/4b9397e7-8173-4d98-a3b1-a295720fd23f" width="250"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/31f6268e-f209-434b-8a08-f198c1aa97da" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/f40a73af-c13c-44eb-bc5f-7c46c9b8898c" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/c8a9644b-7f28-4df1-bd93-3ef930ca8f77" width="250"></td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 ## Features
 
